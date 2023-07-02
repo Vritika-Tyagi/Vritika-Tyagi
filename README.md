@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vritika-Tyagi
-- 👀 I’m interested in ..Game Develpment.
+- 👀 I’m interested in ..Game Development.
 - 🌱 I’m currently learning Java and Javascript...
 - 💞️ I’m looking to collaborate on . Game development..
 - 📫 You can reach me at 2000330100277@rkgit.edu.in
