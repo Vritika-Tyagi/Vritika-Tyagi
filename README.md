@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vritika-Tyagi
-- 👀 I’m interested in ..Game Development.
-- 🌱 I’m currently learning Java and Javascript...
-- 💞️ I’m looking to collaborate on . Game development..
+- 👀 I’m interested in ..Data Science.
+- 🌱 I’m currently learning Python,Java and Javascript...
+- 💞️ I’m looking to collaborate on . Data Science..
 - 📫 You can reach me at 2000330100277@rkgit.edu.in
 
 <!---
